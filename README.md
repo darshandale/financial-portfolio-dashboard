@@ -489,7 +489,7 @@ Refresh the PivotTables/PivotCharts if required.
 
 # 📊 Dashboard Preview
 
-![Executive Wealth & Portfolio Insights Dashboard](assets/dashboard_screenshot.png)
+![Executive Wealth & Portfolio Insights Dashboard](dashboard_screenshot.png)
 
 ---
 
